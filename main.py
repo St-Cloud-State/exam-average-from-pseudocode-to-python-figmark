@@ -1,18 +1,17 @@
 """
-Full Name:
-Class-Section:
-Assignment Title:
-Submission Date:
+Marcus Walker
+IS250-01
+Files and Exceptions Project Setup
+11-16-2025
 """
 """
-Write your pseudocode here.
-Do not write any Python code in this section.
-Your pseudocode should describe your overall approach in your own words.
+Pseudocode
+1. Define my function which I will call average_calculator.
+2. Prompt the user to enter first exam score as an integer.
+3. Prompt the user to enter second exam score as an integer.
+4. Prompt the user to enter third exam score as an integer.
+5. Compute the average by adding them together and dividing by three.
+6. Print the scores individually on their own lines.
+7. Print the final average score on its own line.
+8. End the program.
 """
-
-# Your Python code begins below this line.
-# Every line you write must have a comment directly above it.
-
-# Call your function when your program is ready
-calculate_average()   
-  
