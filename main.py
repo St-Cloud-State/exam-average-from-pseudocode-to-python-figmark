@@ -15,3 +15,15 @@ Pseudocode
 7. Print the final average score on its own line.
 8. End the program.
 """
+
+def calculate_average():
+    first_score = int(input("Enter first exam score: "))
+    second_score = int(input("Enter second exam score: "))
+    third_score = int(input("Enter third exam score: "))
+    average_score = (first_score + second_score + third_score) / 3
+    print("First score:", first_score)
+    print("Second score:", second_score)
+    print("Third score:", third_score)
+    print("The average score is:", average_score)
+calculate_average()
+
