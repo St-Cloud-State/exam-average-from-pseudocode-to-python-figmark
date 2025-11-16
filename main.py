@@ -17,6 +17,7 @@ Pseudocode
 """
 
 def calculate_average():
+
     first_score = int(input("Enter first exam score: "))
     second_score = int(input("Enter second exam score: "))
     third_score = int(input("Enter third exam score: "))
